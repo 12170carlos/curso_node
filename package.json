@@ -1,0 +1,24 @@
+{
+  "name": "midudev_course",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/12170carlos/curso_node.git"
+  },
+  "keywords": [
+    "curso",
+    "node",
+    "nodejs"
+  ],
+  "author": "Carlos Alvarado",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/12170carlos/curso_node/issues"
+  },
+  "homepage": "https://github.com/12170carlos/curso_node#readme"
+}
